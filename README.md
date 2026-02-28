@@ -8,6 +8,8 @@ Autor: Camilo Colorado Varón
 
 Profesor: Javier Andres
 
+Se realiza este proceso de manera casi igual debido a que se realizando viendo videos en youtube de los cuales se saco información para poder generar esta guia
+
 ## 🏷️ Las Tecnologías Utilizadas
 
 ![Unity] (https://img.shields.io/badge/Unity-2023\_LTS-black?logo=unity)
@@ -159,6 +161,11 @@ Esto permite editar scripts en C# correctamente.
 2. Ir a:
 
   **File → Add Local Repository**
+
+  3. Crear un archivo y generar un codigo el que te plazca
+
+
+Gracias por ver esta guia, sigueme para mas guias
 
 3. Seleccionar la carpeta del proyecto Unity.
 
