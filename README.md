@@ -1,4 +1,4 @@
-Instalación completa de unity-librerias-github
+Instalación completa de unity-librerias-github y uso de codigo
 
 Guía técnica detallada para la instalación y configuración de Unity,
 
@@ -9,6 +9,7 @@ Autor: Camilo Colorado Varón
 Profesor: Javier Andres
 
 Se realiza este proceso de manera casi igual debido a que se realizando viendo videos en youtube de los cuales se saco información para poder generar esta guia
+El proposito de esta guia es meramente educativo para que tambien se genere un aprendizaje autodidacta para persona en programación nuevas como yo
 
 ## 🏷️ Las Tecnologías Utilizadas
 
